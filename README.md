@@ -25,7 +25,7 @@ What is Unit Testing ?
 => By performing unit testing we can provide quality code 
   (bug free code) to higher environments.
 
-=================================
+
 What is isolated unit testing ?
 =================================
 
