@@ -35,7 +35,7 @@ What is isolated unit testing ?
 
 => To perform isolated unit testing we will use Mocking.
 
-===================
+
 What is Mocking ?
 ===================
 
